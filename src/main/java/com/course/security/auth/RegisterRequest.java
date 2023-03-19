@@ -1,4 +1,5 @@
 package com.course.security.auth;
+
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
